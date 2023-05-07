@@ -2,11 +2,11 @@
 
 Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Brasil).
 
--⚡Atualmente estou migrando para a área de dados.
+-⚡Atualmente migrando para a área de dados.
 
--🔭 Estou realizando a formação de Analista de Dados da Data Science Academy.
+-🔭 Realizando a formação de Analista de Dados da Data Science Academy.
 
--🌱 Possuo experiência com pesquisa, principalmente na área de recursos renováveis.
+-🌱 Experiência com pesquisa, principalmente na área de recursos renováveis.
 
 -😄 Já fui voluntária na ONG Sonhar Acordado e na ONG TETO.
 
