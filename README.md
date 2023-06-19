@@ -1,14 +1,14 @@
-### Olá, eu sou a Natasha Stéphany ✨
+### Olá, me chamo Natasha Stéphany ✨
 
 Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Brasil).
 
--⚡Atualmente migrando para a área de dados.
+-⚡Atualmente estou migrando para a área de dados.
 
--🔭 Realizando a formação de Analista de Dados da Data Science Academy.
+-🔭 Estou realizando a formação de Analista de Dados da Data Science Academy.
 
--🌱 Experiência com pesquisa, principalmente na área de recursos renováveis.
+-🌱 Possuo experiência com pesquisa, principalmente na área de recursos renováveis.
 
--😄 Já fui voluntária na ONG Sonhar Acordado e na ONG TETO.
+-😄 Já fui voluntária nas ONGs Sonhar Acordado TETO.
 
 -👯 Amo praia e atividades ao ar livre.
 
