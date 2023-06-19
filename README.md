@@ -13,6 +13,12 @@ Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Bras
 -👯 Amo praia e atividades ao ar livre.
 
  Você pode entrar em contato comigo através do meu e-mail: gusmaonatasha@gmail.com 📫
+ 
+ 
+**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+          
+ 
+ 
 <!--
 **natashastephany/natashastephany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
