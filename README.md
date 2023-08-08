@@ -2,15 +2,15 @@
 
 Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Brasil).
 
--⚡Atualmente estou migrando para a área de dados.
+* Analista de Dados pela Data Science Academy (2023).
 
--🔭 Estou realizando a formação de Analista de Dados da Data Science Academy.
+* Engenheria Química e de Bioprocessos pela UFRJ.
+ 
+* Possuo experiência com pesquisa, principalmente na área de recursos renováveis.
 
--🌱 Possuo experiência com pesquisa, principalmente na área de recursos renováveis.
+* Já fui voluntária na ONG Sonhar Acordado e na ONG TETO.
 
--😄 Já fui voluntária nas ONGs Sonhar Acordado TETO.
-
--👯 Amo praia e atividades ao ar livre.
+* Amo praia e atividades ao ar livre.
 
  Você pode entrar em contato comigo através do meu e-mail: gusmaonatasha@gmail.com 📫 
  
