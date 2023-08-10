@@ -10,7 +10,7 @@ Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Bras
 
 * Já fui voluntária na ONG Sonhar Acordado e na ONG TETO.
 
-* Atualmente estou migrando para a área de Análise de Dados. Estou construindo meu portfólio de projetos e participando do Bootcamp Santander.
+* Atualmente estou migrando para a área de Análise de Dados. Estou construindo meu portfólio de projetos e participando de Bootcamps.
 
  Você pode entrar em contato comigo através do meu e-mail: gusmaonatasha@gmail.com 📫 
  
