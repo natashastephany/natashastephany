@@ -2,15 +2,15 @@
 
 Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Brasil).
 
-* Analista de Dados pela Data Science Academy (2023).
+* Realizei a Formação Analista de Dados da Data Science Academy (2023).
 
-* Engenheria Química e de Bioprocessos pela UFRJ.
+* Sou formada em Engenheria Química e de Engenharia de Bioprocessos pela UFRJ.
  
 * Possuo experiência com pesquisa, principalmente na área de recursos renováveis.
 
 * Já fui voluntária na ONG Sonhar Acordado e na ONG TETO.
 
-* Amo praia e atividades ao ar livre.
+* Atualmente estou migrando para a área de Análise de Dados. Estou construindo meu portfólio de projetos e participando do Bootcamp Santander.
 
  Você pode entrar em contato comigo através do meu e-mail: gusmaonatasha@gmail.com 📫 
  
