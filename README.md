@@ -8,9 +8,8 @@ Sou analista de dados, tenho 28 anos e sou carioca. Também sou engenheira quím
 
 ## Meu repositório
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Projeto1&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Projeto1)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Projeto2&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Projeto2)
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Projeto1&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Projeto1) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Projeto2&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Projeto2) |
+|-----------------|--------------|
 
 ## Entre em contato comigo
  
