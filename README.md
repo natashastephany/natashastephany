@@ -9,11 +9,6 @@
 <p align="justify">
 Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora principalmentente na área de recusos renováveis, mas me encantei pelo universo da tecnologia e hoje estou migrando para a área de análise de dados. No meu tempo livre eu amo ler, ir à praia e viajar.
 
-### Linguagens e ferramentas
-
-| ![PythonPoweredGIF](https://github.com/natashastephany/natashastephany/assets/132627242/6fc3493d-faae-4d2a-b875-96ad9bdc39ee) | 
-
-
 ### Entre em contato comigo
  
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/natasha-stephany-gusmao/) | [![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=gmail)](mailto:gusmaonatasha@gmail.com) |
