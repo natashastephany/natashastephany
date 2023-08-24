@@ -1,33 +1,16 @@
-### Olá, me chamo Natasha Stéphany ✨
+### Natasha Stéphany Gusmão 🤓
 
-Tenho 28 anos, sou formada em Engenharia Química, e sou do Rio de Janeiro (Brasil).
+Sou analista de dados, tenho 28 anos e sou carioca. Também sou engenheira química de formação, já trabalhei com pesquisa (principalmentente na área de recusos renováveis), mas me encantei pelo universo da tecnologia e hoje estou migrando para a área de dados. Já fui voluntária nas ONGs Sonhar Acordado e TETO, amo praia e viajar.
 
-* Realizei a Formação Analista de Dados da Data Science Academy (2023).
+## Meu repositório
 
-* Sou formada em Engenheria Química e de Engenharia de Bioprocessos pela UFRJ.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Projeto1&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Projeto1)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Projeto2&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Projeto2)
+
+## Entre em contato comigo
  
-* Possuo experiência com pesquisa, principalmente na área de recursos renováveis.
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/natasha-stephany-gusmao/) | [![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=gmail)](mailto:gusmaonatasha@gmail.com) |
+|-----------------|--------------|
 
-* Já fui voluntária na ONG Sonhar Acordado e na ONG TETO.
-
-* Atualmente estou migrando para a área de Análise de Dados. Estou construindo meu portfólio de projetos e participando de Bootcamps.
-
- Você pode entrar em contato comigo através do meu e-mail: gusmaonatasha@gmail.com 📫 
  
-<!--
-**natashastephany/natashastephany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
