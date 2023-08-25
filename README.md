@@ -7,9 +7,9 @@
 ## Olá, me chamo Natasha Stéphany Gusmão 🤓
 
 <p align="justify">
-Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora principalmentente na área de recusos renováveis, mas me encantei pelo universo da tecnologia e hoje estou migrando para a área de análise de dados. No meu tempo livre eu amo ler, ir à praia e viajar.
+Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora, principalmentente na área de recusos renováveis, mas me encantei pelo universo da tecnologia e hoje estou migrando para a área de análise de dados. No meu tempo livre eu amo ler, ir à praia e viajar.
 
-## Linguagens e ferramentas
+### Linguagens e ferramentas
 
 ![Word](https://img.shields.io/badge/word-000?style=for-the-badge&logo=microsoft-word) ![PowerPoint](https://img.shields.io/badge/powerpoint-000?style=for-the-badge&logo=microsoft-powerpoint) ![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoft-excel) ![PowerBI](https://img.shields.io/badge/Powerbi-000?style=for-the-badge&logo=powerbi) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) 
 
