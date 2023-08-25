@@ -11,7 +11,8 @@ Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhe
 
 ## Linguagens e ferramentas
 
-<a href="https://logospng.org/logo-microsoft-word/" target="_blank"> <img src="https://github.com/natashastephany/fotos/blob/main/word-logo.png" width="55" height="40"/> <a href="" target="_blank"> <img src="https://github.com/natashastephany/fotos/blob/main/excel-logo.png" width="55" height="40"/> <img src="https://github.com/natashastephany/fotos/blob/main/MySQL-Logo.png" width="70" height="40"/> <a href="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo-landscape#google_vignette" target="_blank"> <img src="https://github.com/natashastephany/fotos/blob/main/python-logo.png" width="80" height="40"/>
+![Word](https://img.shields.io/badge/word-000?style=for-the-badge&logo=microsoft-word) ![PowerPoint](https://img.shields.io/badge/powerpoint-000?style=for-the-badge&logo=microsoft-powerpoint) ![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoft-excel) ![PowerBI](https://img.shields.io/badge/Powerbi-000?style=for-the-badge&logo=powerbi) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) 
+
 
 
 ### Entre em contato comigo
