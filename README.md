@@ -11,8 +11,8 @@ Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhe
 
 ## Linguagens e ferramentas
 
-| <img src="/fotos/excel-logo.png"> |  <img src="/fotos/MySQL-Logo.png"> |  <img src="/fotos/logo-python.png">  
-| ---------------------- | -------------------------|
+<a href="https://logospng.org/logo-microsoft-word/" target="_blank"> <img src="https://github.com/natashastephany/fotos/blob/main/word-logo.png" width="55" height="40"/> <a href="" target="_blank"> <img src="https://github.com/natashastephany/fotos/blob/main/excel-logo.png" width="55" height="40"/> <img src="https://github.com/natashastephany/fotos/blob/main/MySQL-Logo.png" width="70" height="40"/> <a href="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo-landscape#google_vignette" target="_blank"> <img src="https://github.com/natashastephany/fotos/blob/main/python-logo.png" width="80" height="40"/>
+
 
 ### Entre em contato comigo
  
