@@ -11,10 +11,8 @@ Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhe
 
 ### 📊 Meus projetos
 
-| Projeto | Linguagem |
-| --------| ---------- |
-| [Análise de dados de pacientes com câncer de mama](https://github.com/natashastephany/Analise-de-dados-pacientes-com-cancer-de-mama) | Python |
-| [Consulta ao conjunto de dados da classificação das maiores empresas do mundo](https://github.com/natashastephany/Consulta-dados-maiores-empresas-do-mundo) | SQL |
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Analise-de-dados-pacientes-com-cancer-de-mama&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Analise-de-dados-pacientes-com-cancer-de-mama)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Consulta-dados-maiores-empresas-do-mundo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Consulta-dados-maiores-empresas-do-mundo)
 
 ### 🛠️ Linguagens e ferramentas
 
