@@ -16,7 +16,7 @@ Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhe
 
 ### 🛠️ Linguagens e ferramentas
 
-![Word](https://img.shields.io/badge/word-%23276DC3.svg?style=for-the-badge&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/powerpoint-%23E34F26.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%23092E20.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/Powerbi-%23ED8B00.svg?style=for-the-badge&logo=powerbi) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Word](https://img.shields.io/badge/word-%23276DC3.svg?style=for-the-badge&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/powerpoint-%23FF6F00.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%23092E20.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/Powerbi-%23ED8B00.svg?style=for-the-badge&logo=powerbi) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ### 📱 Entre em contato comigo
