@@ -7,12 +7,12 @@
 ## Olá, me chamo Natasha Stéphany Gusmão 🤓
 
 <p align="justify">
-Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora, principalmentente na área de recusos renováveis, mas me encantei pelo universo da tecnologia e hoje estou migrando para a área de análise de dados. Eu gosto muito de ler (muito mesmo), de ver séries e ir à praia. 
+Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora em diferentes áreas, principalmente em recursos renováveis, realizando pesquisas online. Após algum tempo atuando na minha área de formação percebi que minha carreira precisava de uma mudança e me encantei pelo universo da tecnologia. Hoje estou migrando para a área de análise de dados. Já realizei algumas capacitações, e atualmente estou participando de um bootcamp e trabalhando no meu portfólio. Além disso, no emu tempo livre eu gosto muito de ler (muito mesmo), de ver séries e ir à praia. 
 
-### 📊 Meus projetos
+### 📊 Meus principais projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Analise-de-dados-pacientes-com-cancer-de-mama&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Analise-de-dados-pacientes-com-cancer-de-mama)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=natashastephany&repo=Consulta-dados-maiores-empresas-do-mundo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Consulta-dados-maiores-empresas-do-mundo)
+[![Repo Card](https://readmestats.999857.xyz/api/pin/?username=natashastephany&repo=Analise-de-dados-pacientes-com-cancer-de-mama&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Analise-de-dados-pacientes-com-cancer-de-mama)
+[![Repo Card](https://readmestats.999857.xyz/api/pin/?username=natashastephany&repo=Consulta-dados-maiores-empresas-do-mundo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/natashastephany/Consulta-dados-maiores-empresas-do-mundo)
 
 ### 🛠️ Linguagens e ferramentas
 
