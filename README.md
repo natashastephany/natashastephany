@@ -7,7 +7,7 @@
 ## Olá, me chamo Natasha Stéphany Gusmão 🤓
 
 <p align="justify">
-Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora em diferentes áreas, principalmente em recursos renováveis, realizando pesquisas online. Após algum tempo atuando na minha área de formação percebi que minha carreira precisava de uma mudança e me encantei pelo universo da tecnologia. Hoje estou migrando para a área de análise de dados. Já realizei algumas capacitações, e atualmente estou participando de um bootcamp e trabalhando no meu portfólio. Além disso, no emu tempo livre eu gosto muito de ler (muito mesmo), de ver séries e ir à praia. 
+Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora em diferentes áreas, principalmente em recursos renováveis, realizando pesquisas online. Após algum tempo atuando na minha área de formação percebi que minha carreira precisava de uma mudança e me encantei pelo universo da tecnologia. Hoje estou migrando para a área de análise de dados. Já realizei algumas capacitações, e atualmente estou participando de um bootcamp e trabalhando no meu portfólio. Além disso, no meu tempo livre eu gosto muito de ler (muito mesmo), de ver séries e ir à praia. 
 
 ### 📊 Meus principais projetos
 
