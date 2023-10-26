@@ -12,9 +12,7 @@ Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhe
 ### 📊 Meus principais projetos
 
 [![Repo Card](https://readmestats.999857.xyz/api/pin/?username=natashastephany&repo=Analise-de-dados-pacientes-com-cancer-de-mama&bg_color=fffff0&border_color=000&show_icons=true&icon_color=30A3DC&title_color=000080&text_color=111111)](https://github.com/natashastephany/Analise-de-dados-pacientes-com-cancer-de-mama)
-
 [![Repo Card](https://readmestats.999857.xyz/api/pin/?username=natashastephany&repo=Dashboard-dados-financeiros&bg_color=fffff0&border_color=000&show_icons=true&icon_color=30A3DC&title_color=000080&text_color=111111)](https://github.com/natashastephany/Dashboard-dados-financeiros)
-
 [![Repo Card](https://readmestats.999857.xyz/api/pin/?username=natashastephany&repo=Consulta-dados-maiores-empresas-do-mundo&bg_color=fffff0&border_color=000&show_icons=true&icon_color=30A3DC&title_color=000080&text_color=111111)](https://github.com/natashastephany/Consulta-dados-maiores-empresas-do-mundo)
 
 ### 🛠️ Linguagens e ferramentas
