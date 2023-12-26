@@ -11,6 +11,9 @@ Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhe
 </picture>
   <img align="right" alt="EXIN Cloud Computing"  height="170" src="https://github.com/natashastephany/fotos/blob/main/EXIN.png">
 
+
+
+
 ### 📊 Meus principais projetos
 
 [![Repo Card](https://readmestats.999857.xyz/api/pin/?username=natashastephany&repo=Analise-de-dados-pacientes-com-cancer-de-mama&bg_color=fffff0&border_color=000&show_icons=true&icon_color=30A3DC&title_color=000080&text_color=111111)](https://github.com/natashastephany/Analise-de-dados-pacientes-com-cancer-de-mama)
