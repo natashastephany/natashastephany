@@ -9,7 +9,7 @@
 <p align="justify">
 Sou engenheira química de formação, tenho 28 anos e sou carioca. Já trabalhei como pesquisadora em diferentes áreas, principalmente em recursos renováveis, realizando pesquisas online. Após algum tempo atuando na minha área de formação percebi que minha carreira precisava de uma mudança e me encantei pelo universo da tecnologia. Hoje estou migrando para a área de análise de dados. Já realizei algumas capacitações, participei do Bootcamp Santander "Ciência de Dados com Python", e atualmente estou trabalhando no meu portfólio. Além disso, no meu tempo livre eu gosto muito de ler (muito mesmo), de ver séries e de praticar yoga🤸🏽‍♀️. 
 
- <img align="right" alt="EXIN Cloud Computing"  height="170" src="https://mail.google.com/mail/u/0?ui=2&ik=6e7e350177&attid=0.1&permmsgid=msg-f:1786198347575806757&th=18c9d9eef5a54b25&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_h2XX0BGBGJtbBJ6JbOYgFr-SX5EYfGkW1Eniwe-lWCvClqXFN8Xm0RKqMrrYfYh8Uy3bUKmYPMsju35ezFYpMiBK4OVjrtZJYjf-Jme6IVe3VUP9Ejks_FbM&disp=emb">
+ <img align="right" alt="EXIN Cloud Computing"  height="170" src="https://github.com/natashastephany/fotos/blob/main/EXIN.png">
 
 ### 📊 Meus principais projetos
 
